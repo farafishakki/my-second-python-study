@@ -1,3 +1,4 @@
 # my-second-python-study
 ini adalah percobaan projek kedua saya
-oalahh
+## Sangat Sempurna Sekali 
+saya belajar python sering
